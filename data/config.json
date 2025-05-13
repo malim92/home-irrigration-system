@@ -1,0 +1,12 @@
+{
+  "wifi": {
+      "ssid": "ARRIS-61E8",
+      "password": "belayMe69"
+  },
+  "firebase": {
+      "api_key": "AIzaSyC-u7-03Q0edfySx1QbYSBOGpV2x3Ix1V4",
+      "database_url": "https://home-irrigration-system-default-rtdb.europe-west1.firebasedatabase.app",
+      "email": "malim92@live.com",
+      "password": "f8M*8Nfy7%cinE"
+  }
+}
